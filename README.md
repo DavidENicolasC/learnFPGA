@@ -4,6 +4,6 @@ Como parte de los cursos programados por el Club Rising Edge en la ESIME Culhuac
 
 |Fecha|Sesion|Programa/Material|
 |---|---|---|
-|08/03/2024|Introducción|[Multiplexador](Multiplexador)|
+|08/03/2024|Introducción|[Multiplexor](Multiplexor)|
 
 > 👨‍💻 Nicolas Castañeda David Emmanuel
