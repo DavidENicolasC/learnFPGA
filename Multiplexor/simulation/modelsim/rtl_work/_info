@@ -1,0 +1,56 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/David/proyectos/CursoFPGA/Multiplexor/simulation/modelsim
+vMultiplexor
+Z1 !s110 1710523817
+!i10b 1
+!s100 P6Pl>[Pd=YdhZ8P?ZXUz42
+I<A;eZ@Ke3QR^Tk>okbQ_D0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1710519548
+8C:/Users/David/proyectos/CursoFPGA/Multiplexor/Multiplexor.v
+FC:/Users/David/proyectos/CursoFPGA/Multiplexor/Multiplexor.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1710523817.000000
+!s107 C:/Users/David/proyectos/CursoFPGA/Multiplexor/Multiplexor.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/David/proyectos/CursoFPGA/Multiplexor|C:/Users/David/proyectos/CursoFPGA/Multiplexor/Multiplexor.v|
+!i113 1
+Z5 o-vlog01compat -work work
+!s92 -vlog01compat -work work +incdir+C:/Users/David/proyectos/CursoFPGA/Multiplexor
+Z6 tCvgOpt 0
+n@multiplexor
+vMultiplexor_vlg_tst
+R1
+!i10b 1
+!s100 ijSMn^zl7K>>6a2hSQ89B1
+IR@R=`d@fjE;A:QC3G:N<_3
+R2
+R0
+w1710523675
+8C:/Users/David/proyectos/CursoFPGA/Multiplexor/simulation/modelsim/Multiplexor.vt
+FC:/Users/David/proyectos/CursoFPGA/Multiplexor/simulation/modelsim/Multiplexor.vt
+L0 28
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/David/proyectos/CursoFPGA/Multiplexor/simulation/modelsim/Multiplexor.vt|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/David/proyectos/CursoFPGA/Multiplexor/simulation/modelsim|C:/Users/David/proyectos/CursoFPGA/Multiplexor/simulation/modelsim/Multiplexor.vt|
+!i113 1
+R5
+!s92 -vlog01compat -work work +incdir+C:/Users/David/proyectos/CursoFPGA/Multiplexor/simulation/modelsim
+R6
+n@multiplexor_vlg_tst

@@ -1,0 +1,7 @@
+|Multiplexor
+a => x.DATAB
+b => x.DATAA
+c => x.OUTPUTSELECT
+x << x.DB_MAX_OUTPUT_PORT_TYPE
+
+

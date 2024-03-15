@@ -1,0 +1,13 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/David/proyectos/CursoFPGA/Multiplexor/Multiplexor.v
+source_file = 1, C:/Users/David/proyectos/CursoFPGA/Multiplexor/db/Multiplexor.cbx.xml
+design_name = Multiplexor
+instance = comp, \x~output , x~output, Multiplexor, 1
+instance = comp, \b~input , b~input, Multiplexor, 1
+instance = comp, \c~input , c~input, Multiplexor, 1
+instance = comp, \a~input , a~input, Multiplexor, 1
+instance = comp, \x~0 , x~0, Multiplexor, 1
+design_name = hard_block
+instance = comp, \~ALTERA_ASDO_DATA1~~ibuf , ~ALTERA_ASDO_DATA1~~ibuf, hard_block, 1
+instance = comp, \~ALTERA_FLASH_nCE_nCSO~~ibuf , ~ALTERA_FLASH_nCE_nCSO~~ibuf, hard_block, 1
+instance = comp, \~ALTERA_DATA0~~ibuf , ~ALTERA_DATA0~~ibuf, hard_block, 1
