@@ -12,29 +12,29 @@
 # 
 # vlog -vlog01compat -work work +incdir+C:/Users/David/proyectos/CursoFPGA/Multiplexor {C:/Users/David/proyectos/CursoFPGA/Multiplexor/Multiplexor.v}
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 11:30:17 on Mar 15,2024
+# Start time: 14:40:50 on Mar 15,2024
 # vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/David/proyectos/CursoFPGA/Multiplexor" C:/Users/David/proyectos/CursoFPGA/Multiplexor/Multiplexor.v 
 # -- Compiling module Multiplexor
 # 
 # Top level modules:
 # 	Multiplexor
-# End time: 11:30:17 on Mar 15,2024, Elapsed time: 0:00:00
+# End time: 14:40:50 on Mar 15,2024, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # 
 # vlog -vlog01compat -work work +incdir+C:/Users/David/proyectos/CursoFPGA/Multiplexor/simulation/modelsim {C:/Users/David/proyectos/CursoFPGA/Multiplexor/simulation/modelsim/Multiplexor.vt}
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 11:30:17 on Mar 15,2024
+# Start time: 14:40:50 on Mar 15,2024
 # vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/David/proyectos/CursoFPGA/Multiplexor/simulation/modelsim" C:/Users/David/proyectos/CursoFPGA/Multiplexor/simulation/modelsim/Multiplexor.vt 
 # -- Compiling module Multiplexor_vlg_tst
 # 
 # Top level modules:
 # 	Multiplexor_vlg_tst
-# End time: 11:30:17 on Mar 15,2024, Elapsed time: 0:00:00
+# End time: 14:40:50 on Mar 15,2024, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # 
 # vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs="+acc"  Multiplexor_vlg_tst
 # vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs=""+acc"" Multiplexor_vlg_tst 
-# Start time: 11:30:17 on Mar 15,2024
+# Start time: 14:40:51 on Mar 15,2024
 # Loading work.Multiplexor_vlg_tst
 # Loading work.Multiplexor
 # 
@@ -45,5 +45,5 @@
 # .main_pane.objects.interior.cs.body.tree
 # run 2000 ns
 # Running testbench
-# End time: 11:30:31 on Mar 15,2024, Elapsed time: 0:00:14
+# End time: 14:47:27 on Mar 15,2024, Elapsed time: 0:06:36
 # Errors: 0, Warnings: 0
